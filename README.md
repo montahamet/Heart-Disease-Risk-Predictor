@@ -1,7 +1,12 @@
 ## Heart Disease Risk Predictor
 
+
 This project predicts the likelihood of heart disease using clinical features and machine learning. By utilizing an XGBoost classifier and 13 standard clinical heart health indicators, the system estimates whether a patient falls into a low or high-risk category. This tool is designed to provide early awareness and educational insights—it serves as a technical demonstration of predictive modeling in healthcare and is not a substitute for professional medical diagnosis.
+
+
 ---
+
+
 ## Method Details
 
 -**Initialization:** Set up the Python environment and load essential libraries (Pandas, Scikit-Learn, XGBoost).
